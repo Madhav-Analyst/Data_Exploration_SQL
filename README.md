@@ -1,4 +1,3 @@
-# Data_Exploration_SQL
 /*
 Covid 19 Data Exploration 
 
